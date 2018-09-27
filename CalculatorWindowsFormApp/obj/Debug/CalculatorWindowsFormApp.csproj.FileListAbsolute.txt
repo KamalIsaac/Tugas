@@ -1,0 +1,5 @@
+D:\pemrog\Solution1\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.csprojAssemblyReference.cache
+D:\pemrog\Solution1\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.Form1.resources
+D:\pemrog\Solution1\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.Properties.Resources.resources
+D:\pemrog\Solution1\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.csproj.GenerateResource.cache
+D:\pemrog\Solution1\CalculatorWindowsFormApp\obj\Debug\CalculatorWindowsFormApp.csproj.CoreCompileInputs.cache

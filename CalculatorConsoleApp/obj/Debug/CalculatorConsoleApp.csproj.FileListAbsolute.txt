@@ -1,0 +1,7 @@
+D:\pemrog\Solution1\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojAssemblyReference.cache
+D:\pemrog\Solution1\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\pemrog\Solution1\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+D:\pemrog\Solution1\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+D:\pemrog\Solution1\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+D:\pemrog\Solution1\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+D:\pemrog\Solution1\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
